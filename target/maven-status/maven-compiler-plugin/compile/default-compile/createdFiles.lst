@@ -1,0 +1,6 @@
+com\resource\RestResource.class
+com\resource\UserProfile.class
+com\config\OAuth2AuthorizationServer.class
+com\config\OAuth2ResourceServer.class
+com\config\SecurityConfig.class
+com\SpringOauth2ResourceServerApplication.class

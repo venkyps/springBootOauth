@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96fa5599-af4b-45a9-9789-b79cbe5f7f8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VLB1ravt4OLMEWfhkDZay5g1Fj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -Xlint:deprecation for details" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringOauth2ResourceServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SpringOauth2ResourceServerApplication" />
+      <module name="SpringOauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringOauth2ResourceServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96fa5599-af4b-45a9-9789-b79cbe5f7f8b" name="Default Changelist" comment="" />
+      <created>1577022282029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577022282029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="0" key="#Project_Structure" timestamp="1577107560983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="231" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577107560983" />
+    <state x="93" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577025609539">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577025609539" />
+    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1577108657527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="407" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1577108657527" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1577880463322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577880463322" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1577880463322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577880463322" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1577880463322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577880463322" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1577880463322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577880463322" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1577284885559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577284885559" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1577284885559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577284885559" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1577284885559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577284885559" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1577284885559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577284885559" />
+    <state x="169" y="0" key="Maven.ArtifactSearchDialog" timestamp="1577023148965">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="169" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1577023148965" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1577023439938">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1280.680@0.0.1280.680" timestamp="1577023439938" />
+    <state x="147" y="0" key="SettingsEditor" timestamp="1577023470383">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="147" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577023470383" />
+    <state x="335" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1577879396143">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577879396143" />
+    <state x="540" y="0" width="740" height="680" key="find.popup" timestamp="1577031235571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="540" y="0" width="740" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1577031235571" />
+    <state x="295" y="153" width="672" height="677" key="run.anything.popup" timestamp="1577108923171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="295" y="153" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1577108923171" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577142798110">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577142798110" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/config/OAuth2ResourceServer.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/config/OAuth2ResourceServer.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/config/SecurityConfig.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
